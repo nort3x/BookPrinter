@@ -30,4 +30,7 @@ a handy script for printing MultiplePages PDF (books and documents) double sided
        * bind them together:
        * ![alt text](https://github.com/nort3x/BookPrinter/blob/main/img/l2r.png)
        
+----------------
+       * ![alt text](https://github.com/nort3x/BookPrinter/blob/main/img/bind.png)
+       
        
